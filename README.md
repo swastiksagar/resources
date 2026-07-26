@@ -4,4 +4,4 @@
 [Scan Email](https://scanmail.lovable.app/) - Phishing Email Checker. <br>
 <br>
 <img width="" height="100" alt="Screenshot 2026-07-26 134605" src="https://github.com/user-attachments/assets/70ecac17-a1fb-4ab9-804b-e3b1600e0c4e" /> <br>
-[Soc Analyst from Scratch](https://socanalyst.netlify.app/) - Learn SOC here. <br>
+[SOC Analyst from Scratch](https://socanalyst.netlify.app/) - Learn SOC here. <br>
