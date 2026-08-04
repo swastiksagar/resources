@@ -7,7 +7,6 @@
 *[Scan Email](https://scanmail.lovable.app/) - Phishing Email Checker.* <br>
 <br>
 <img width="" height="200" alt="Screenshot 2026-07-26 134605" src="https://github.com/user-attachments/assets/70ecac17-a1fb-4ab9-804b-e3b1600e0c4e" /> <br>
-*[SOC Analyst from Scratch](https://socanalyst.netlify.app/) - Learn SOC here.* <br>
-<br>
-<img width="" height="196" alt="image" src="https://github.com/user-attachments/assets/6c11e5c0-b12a-4cf3-80fd-5de696658e43" /> <br>
+*[SOC Analyst from Scratch](https://socanalyst.netlify.app/) - Learn SOC here.*
+##
 *[PCAP Viewer Online](https://pcapviewer.online/) - View PCAP file here.* <br>
