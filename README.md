@@ -10,3 +10,4 @@
 *[SOC Analyst from Scratch](https://socanalyst.netlify.app/) - Learn SOC here.*
 ##
 *[PCAP Viewer Online](https://pcapviewer.online/) - View PCAP file here.* <br>
+*[Hex Packet Decoder](https://hpd.gasmi.net/) - Decode Hex Code here.*<br>
