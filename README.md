@@ -3,8 +3,13 @@
 
 ### every resources here are free and will be free-forever.
 
-*[Mitre Att&ck](https://mitreattack.lovable.app) - Mitre Att&ck field reference.* <br>
-*[Scan Email](https://scanmail.lovable.app/) - Phishing Email Checker.* <br>
-*[SOC Analyst from Scratch](https://socanalyst.netlify.app/) - Learn SOC here.* <br>
-*[PCAP Viewer Online](https://pcapviewer.online/) - View PCAP file here.* <br>
-*[Hex Packet Decoder](https://hpd.gasmi.net/) - Decode Hex Code here.*<br>
+- *[Mitre Att&ck](https://mitreattack.lovable.app) - Mitre Att&ck field reference.* < <br>
+- *[Scan Email](https://scanmail.lovable.app/) - Phishing Email Checker.* < <br>
+- *[SOC Analyst from Scratch](https://socanalyst.netlify.app/) - Learn SOC here.* < <br>
+- *[PCAP Viewer Online](https://pcapviewer.online/) - View PCAP file here.* > <br>
+- *[Hex Packet Decoder](https://hpd.gasmi.net/) - Decode Hex Code here.* > <br>
+
+
+
+> [!NOTE]
+> Website marked with this < are created my be and marked with > are found from the Internet.
