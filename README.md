@@ -12,4 +12,4 @@
 
 
 > [!NOTE]
-> Website marked with this < are created my be and marked with > are found from the Internet.
+> Website marked with this < are created by me and marked with > are found from the Internet.
