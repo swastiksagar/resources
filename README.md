@@ -12,7 +12,16 @@
 
 
 > [!NOTE]
-> Website marked with this * are created by me.
+> Browse free books, guides, and curated resources to accelerate your learning journey.
+
+> [!TIP]
+> Organize downloads by category (e.g., SOC, Malware Analysis, Web Security) for faster access.
 
 > [!IMPORTANT]
-> Create a Pull request if you need anything.
+> Always verify licensing before reusing or redistributing materials outside personal study.
+
+> [!WARNING]
+> Some resources may be outdated—cross‑check with official documentation to avoid errors.
+
+> [!CAUTION]
+> Avoid relying solely on free materials; complement them with hands‑on labs and trusted references.
